@@ -1,4 +1,4 @@
 def prueba():
-    print("Prueba")
+    print("Ahora esto ya es una prueba")
 
 prueba()
