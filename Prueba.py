@@ -1,4 +1,4 @@
-def Prueba():
+def prueba():
     print("Prueba")
 
-Prueba()
+prueba()
